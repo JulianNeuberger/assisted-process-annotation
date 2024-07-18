@@ -1,0 +1,401 @@
+{
+  "text": "It is first checked whether the claimant is insured by the organization . If not , the claimant is informed that the claim must be rejected . Otherwise , the severity of the claim is evaluated .",
+  "name": "doc-3.6",
+  "id": "doc-3.6",
+  "completed": true,
+  "category": "",
+  "tokens": [
+    {
+      "text": "It",
+      "indexInDocument": 0,
+      "posTag": "PRP",
+      "sentenceIndex": 0
+    },
+    {
+      "text": "is",
+      "indexInDocument": 1,
+      "posTag": "VBZ",
+      "sentenceIndex": 0
+    },
+    {
+      "text": "first",
+      "indexInDocument": 2,
+      "posTag": "RB",
+      "sentenceIndex": 0
+    },
+    {
+      "text": "checked",
+      "indexInDocument": 3,
+      "posTag": "VBN",
+      "sentenceIndex": 0
+    },
+    {
+      "text": "whether",
+      "indexInDocument": 4,
+      "posTag": "IN",
+      "sentenceIndex": 0
+    },
+    {
+      "text": "the",
+      "indexInDocument": 5,
+      "posTag": "DT",
+      "sentenceIndex": 0
+    },
+    {
+      "text": "claimant",
+      "indexInDocument": 6,
+      "posTag": "NN",
+      "sentenceIndex": 0
+    },
+    {
+      "text": "is",
+      "indexInDocument": 7,
+      "posTag": "VBZ",
+      "sentenceIndex": 0
+    },
+    {
+      "text": "insured",
+      "indexInDocument": 8,
+      "posTag": "VBN",
+      "sentenceIndex": 0
+    },
+    {
+      "text": "by",
+      "indexInDocument": 9,
+      "posTag": "IN",
+      "sentenceIndex": 0
+    },
+    {
+      "text": "the",
+      "indexInDocument": 10,
+      "posTag": "DT",
+      "sentenceIndex": 0
+    },
+    {
+      "text": "organization",
+      "indexInDocument": 11,
+      "posTag": "NN",
+      "sentenceIndex": 0
+    },
+    {
+      "text": ".",
+      "indexInDocument": 12,
+      "posTag": ".",
+      "sentenceIndex": 0
+    },
+    {
+      "text": "If",
+      "indexInDocument": 13,
+      "posTag": "IN",
+      "sentenceIndex": 1
+    },
+    {
+      "text": "not",
+      "indexInDocument": 14,
+      "posTag": "RB",
+      "sentenceIndex": 1
+    },
+    {
+      "text": ",",
+      "indexInDocument": 15,
+      "posTag": ",",
+      "sentenceIndex": 1
+    },
+    {
+      "text": "the",
+      "indexInDocument": 16,
+      "posTag": "DT",
+      "sentenceIndex": 1
+    },
+    {
+      "text": "claimant",
+      "indexInDocument": 17,
+      "posTag": "NN",
+      "sentenceIndex": 1
+    },
+    {
+      "text": "is",
+      "indexInDocument": 18,
+      "posTag": "VBZ",
+      "sentenceIndex": 1
+    },
+    {
+      "text": "informed",
+      "indexInDocument": 19,
+      "posTag": "VBN",
+      "sentenceIndex": 1
+    },
+    {
+      "text": "that",
+      "indexInDocument": 20,
+      "posTag": "IN",
+      "sentenceIndex": 1
+    },
+    {
+      "text": "the",
+      "indexInDocument": 21,
+      "posTag": "DT",
+      "sentenceIndex": 1
+    },
+    {
+      "text": "claim",
+      "indexInDocument": 22,
+      "posTag": "NN",
+      "sentenceIndex": 1
+    },
+    {
+      "text": "must",
+      "indexInDocument": 23,
+      "posTag": "MD",
+      "sentenceIndex": 1
+    },
+    {
+      "text": "be",
+      "indexInDocument": 24,
+      "posTag": "VB",
+      "sentenceIndex": 1
+    },
+    {
+      "text": "rejected",
+      "indexInDocument": 25,
+      "posTag": "VBN",
+      "sentenceIndex": 1
+    },
+    {
+      "text": ".",
+      "indexInDocument": 26,
+      "posTag": ".",
+      "sentenceIndex": 1
+    },
+    {
+      "text": "Otherwise",
+      "indexInDocument": 27,
+      "posTag": "RB",
+      "sentenceIndex": 2
+    },
+    {
+      "text": ",",
+      "indexInDocument": 28,
+      "posTag": ",",
+      "sentenceIndex": 2
+    },
+    {
+      "text": "the",
+      "indexInDocument": 29,
+      "posTag": "DT",
+      "sentenceIndex": 2
+    },
+    {
+      "text": "severity",
+      "indexInDocument": 30,
+      "posTag": "NN",
+      "sentenceIndex": 2
+    },
+    {
+      "text": "of",
+      "indexInDocument": 31,
+      "posTag": "IN",
+      "sentenceIndex": 2
+    },
+    {
+      "text": "the",
+      "indexInDocument": 32,
+      "posTag": "DT",
+      "sentenceIndex": 2
+    },
+    {
+      "text": "claim",
+      "indexInDocument": 33,
+      "posTag": "NN",
+      "sentenceIndex": 2
+    },
+    {
+      "text": "is",
+      "indexInDocument": 34,
+      "posTag": "VBZ",
+      "sentenceIndex": 2
+    },
+    {
+      "text": "evaluated",
+      "indexInDocument": 35,
+      "posTag": "VBN",
+      "sentenceIndex": 2
+    },
+    {
+      "text": ".",
+      "indexInDocument": 36,
+      "posTag": ".",
+      "sentenceIndex": 2
+    }
+  ],
+  "mentions": [
+    {
+      "type": "Activity Data",
+      "tokenDocumentIndices": [
+        0
+      ]
+    },
+    {
+      "type": "Activity",
+      "tokenDocumentIndices": [
+        3
+      ]
+    },
+    {
+      "type": "XOR Gateway",
+      "tokenDocumentIndices": [
+        13
+      ]
+    },
+    {
+      "type": "Condition Specification",
+      "tokenDocumentIndices": [
+        14
+      ]
+    },
+    {
+      "type": "Actor",
+      "tokenDocumentIndices": [
+        16,
+        17
+      ]
+    },
+    {
+      "type": "Activity",
+      "tokenDocumentIndices": [
+        19
+      ]
+    },
+    {
+      "type": "Activity Data",
+      "tokenDocumentIndices": [
+        21,
+        22,
+        23,
+        24,
+        25
+      ]
+    },
+    {
+      "type": "XOR Gateway",
+      "tokenDocumentIndices": [
+        27
+      ]
+    },
+    {
+      "type": "Activity Data",
+      "tokenDocumentIndices": [
+        29,
+        30,
+        31,
+        32,
+        33
+      ]
+    },
+    {
+      "type": "Activity",
+      "tokenDocumentIndices": [
+        35
+      ]
+    }
+  ],
+  "entities": [
+    {
+      "mentionIndices": [
+        0
+      ]
+    },
+    {
+      "mentionIndices": [
+        1
+      ]
+    },
+    {
+      "mentionIndices": [
+        2
+      ]
+    },
+    {
+      "mentionIndices": [
+        3
+      ]
+    },
+    {
+      "mentionIndices": [
+        4
+      ]
+    },
+    {
+      "mentionIndices": [
+        5
+      ]
+    },
+    {
+      "mentionIndices": [
+        6
+      ]
+    },
+    {
+      "mentionIndices": [
+        7
+      ]
+    },
+    {
+      "mentionIndices": [
+        8
+      ]
+    },
+    {
+      "mentionIndices": [
+        9
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "headMentionIndex": 1,
+      "tailMentionIndex": 0,
+      "type": "uses"
+    },
+    {
+      "headMentionIndex": 1,
+      "tailMentionIndex": 2,
+      "type": "flow"
+    },
+    {
+      "headMentionIndex": 2,
+      "tailMentionIndex": 3,
+      "type": "flow"
+    },
+    {
+      "headMentionIndex": 2,
+      "tailMentionIndex": 7,
+      "type": "same gateway"
+    },
+    {
+      "headMentionIndex": 3,
+      "tailMentionIndex": 5,
+      "type": "flow"
+    },
+    {
+      "headMentionIndex": 5,
+      "tailMentionIndex": 4,
+      "type": "actor recipient"
+    },
+    {
+      "headMentionIndex": 5,
+      "tailMentionIndex": 6,
+      "type": "uses"
+    },
+    {
+      "headMentionIndex": 7,
+      "tailMentionIndex": 9,
+      "type": "flow"
+    },
+    {
+      "headMentionIndex": 9,
+      "tailMentionIndex": 8,
+      "type": "uses"
+    }
+  ]
+}

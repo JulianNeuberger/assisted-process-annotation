@@ -1,0 +1,407 @@
+{
+  "text": "I wait to get the job description for review before it is advertised . Under certain circumstances , I must ask for corrections again , otherwise I approve the job description .",
+  "name": "doc-8.3",
+  "id": "doc-8.3",
+  "completed": true,
+  "category": "",
+  "tokens": [
+    {
+      "text": "I",
+      "indexInDocument": 0,
+      "posTag": "PRP",
+      "sentenceIndex": 0
+    },
+    {
+      "text": "wait",
+      "indexInDocument": 1,
+      "posTag": "VBP",
+      "sentenceIndex": 0
+    },
+    {
+      "text": "to",
+      "indexInDocument": 2,
+      "posTag": "TO",
+      "sentenceIndex": 0
+    },
+    {
+      "text": "get",
+      "indexInDocument": 3,
+      "posTag": "VB",
+      "sentenceIndex": 0
+    },
+    {
+      "text": "the",
+      "indexInDocument": 4,
+      "posTag": "DT",
+      "sentenceIndex": 0
+    },
+    {
+      "text": "job",
+      "indexInDocument": 5,
+      "posTag": "NN",
+      "sentenceIndex": 0
+    },
+    {
+      "text": "description",
+      "indexInDocument": 6,
+      "posTag": "NN",
+      "sentenceIndex": 0
+    },
+    {
+      "text": "for",
+      "indexInDocument": 7,
+      "posTag": "IN",
+      "sentenceIndex": 0
+    },
+    {
+      "text": "review",
+      "indexInDocument": 8,
+      "posTag": "NN",
+      "sentenceIndex": 0
+    },
+    {
+      "text": "before",
+      "indexInDocument": 9,
+      "posTag": "IN",
+      "sentenceIndex": 0
+    },
+    {
+      "text": "it",
+      "indexInDocument": 10,
+      "posTag": "PRP",
+      "sentenceIndex": 0
+    },
+    {
+      "text": "is",
+      "indexInDocument": 11,
+      "posTag": "VBZ",
+      "sentenceIndex": 0
+    },
+    {
+      "text": "advertised",
+      "indexInDocument": 12,
+      "posTag": "VBN",
+      "sentenceIndex": 0
+    },
+    {
+      "text": ".",
+      "indexInDocument": 13,
+      "posTag": ".",
+      "sentenceIndex": 0
+    },
+    {
+      "text": "Under",
+      "indexInDocument": 14,
+      "posTag": "IN",
+      "sentenceIndex": 1
+    },
+    {
+      "text": "certain",
+      "indexInDocument": 15,
+      "posTag": "JJ",
+      "sentenceIndex": 1
+    },
+    {
+      "text": "circumstances",
+      "indexInDocument": 16,
+      "posTag": "NNS",
+      "sentenceIndex": 1
+    },
+    {
+      "text": ",",
+      "indexInDocument": 17,
+      "posTag": ",",
+      "sentenceIndex": 1
+    },
+    {
+      "text": "I",
+      "indexInDocument": 18,
+      "posTag": "PRP",
+      "sentenceIndex": 1
+    },
+    {
+      "text": "must",
+      "indexInDocument": 19,
+      "posTag": "MD",
+      "sentenceIndex": 1
+    },
+    {
+      "text": "ask",
+      "indexInDocument": 20,
+      "posTag": "VB",
+      "sentenceIndex": 1
+    },
+    {
+      "text": "for",
+      "indexInDocument": 21,
+      "posTag": "IN",
+      "sentenceIndex": 1
+    },
+    {
+      "text": "corrections",
+      "indexInDocument": 22,
+      "posTag": "NNS",
+      "sentenceIndex": 1
+    },
+    {
+      "text": "again",
+      "indexInDocument": 23,
+      "posTag": "RB",
+      "sentenceIndex": 1
+    },
+    {
+      "text": ",",
+      "indexInDocument": 24,
+      "posTag": ",",
+      "sentenceIndex": 1
+    },
+    {
+      "text": "otherwise",
+      "indexInDocument": 25,
+      "posTag": "RB",
+      "sentenceIndex": 1
+    },
+    {
+      "text": "I",
+      "indexInDocument": 26,
+      "posTag": "PRP",
+      "sentenceIndex": 1
+    },
+    {
+      "text": "approve",
+      "indexInDocument": 27,
+      "posTag": "VBP",
+      "sentenceIndex": 1
+    },
+    {
+      "text": "the",
+      "indexInDocument": 28,
+      "posTag": "DT",
+      "sentenceIndex": 1
+    },
+    {
+      "text": "job",
+      "indexInDocument": 29,
+      "posTag": "NN",
+      "sentenceIndex": 1
+    },
+    {
+      "text": "description",
+      "indexInDocument": 30,
+      "posTag": "NN",
+      "sentenceIndex": 1
+    },
+    {
+      "text": ".",
+      "indexInDocument": 31,
+      "posTag": ".",
+      "sentenceIndex": 1
+    }
+  ],
+  "mentions": [
+    {
+      "type": "Actor",
+      "tokenDocumentIndices": [
+        26
+      ]
+    },
+    {
+      "type": "Actor",
+      "tokenDocumentIndices": [
+        18
+      ]
+    },
+    {
+      "type": "Actor",
+      "tokenDocumentIndices": [
+        0
+      ]
+    },
+    {
+      "type": "Activity",
+      "tokenDocumentIndices": [
+        3
+      ]
+    },
+    {
+      "type": "Activity Data",
+      "tokenDocumentIndices": [
+        10
+      ]
+    },
+    {
+      "type": "Activity Data",
+      "tokenDocumentIndices": [
+        4,
+        5,
+        6,
+        7,
+        8
+      ]
+    },
+    {
+      "type": "Activity Data",
+      "tokenDocumentIndices": [
+        28,
+        29,
+        30
+      ]
+    },
+    {
+      "type": "Activity",
+      "tokenDocumentIndices": [
+        12
+      ]
+    },
+    {
+      "type": "XOR Gateway",
+      "tokenDocumentIndices": [
+        14,
+        15,
+        16
+      ]
+    },
+    {
+      "type": "Activity",
+      "tokenDocumentIndices": [
+        20
+      ]
+    },
+    {
+      "type": "Activity Data",
+      "tokenDocumentIndices": [
+        22
+      ]
+    },
+    {
+      "type": "XOR Gateway",
+      "tokenDocumentIndices": [
+        25
+      ]
+    },
+    {
+      "type": "Activity",
+      "tokenDocumentIndices": [
+        27
+      ]
+    }
+  ],
+  "entities": [
+    {
+      "mentionIndices": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "mentionIndices": [
+        3
+      ]
+    },
+    {
+      "mentionIndices": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "mentionIndices": [
+        7
+      ]
+    },
+    {
+      "mentionIndices": [
+        8
+      ]
+    },
+    {
+      "mentionIndices": [
+        9
+      ]
+    },
+    {
+      "mentionIndices": [
+        10
+      ]
+    },
+    {
+      "mentionIndices": [
+        11
+      ]
+    },
+    {
+      "mentionIndices": [
+        12
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "headMentionIndex": 3,
+      "tailMentionIndex": 5,
+      "type": "uses"
+    },
+    {
+      "headMentionIndex": 3,
+      "tailMentionIndex": 2,
+      "type": "actor performer"
+    },
+    {
+      "headMentionIndex": 3,
+      "tailMentionIndex": 8,
+      "type": "flow"
+    },
+    {
+      "headMentionIndex": 7,
+      "tailMentionIndex": 4,
+      "type": "uses"
+    },
+    {
+      "headMentionIndex": 8,
+      "tailMentionIndex": 9,
+      "type": "flow"
+    },
+    {
+      "headMentionIndex": 8,
+      "tailMentionIndex": 11,
+      "type": "same gateway"
+    },
+    {
+      "headMentionIndex": 9,
+      "tailMentionIndex": 10,
+      "type": "uses"
+    },
+    {
+      "headMentionIndex": 9,
+      "tailMentionIndex": 1,
+      "type": "actor performer"
+    },
+    {
+      "headMentionIndex": 9,
+      "tailMentionIndex": 3,
+      "type": "flow"
+    },
+    {
+      "headMentionIndex": 11,
+      "tailMentionIndex": 12,
+      "type": "flow"
+    },
+    {
+      "headMentionIndex": 12,
+      "tailMentionIndex": 6,
+      "type": "uses"
+    },
+    {
+      "headMentionIndex": 12,
+      "tailMentionIndex": 0,
+      "type": "actor performer"
+    },
+    {
+      "headMentionIndex": 12,
+      "tailMentionIndex": 7,
+      "type": "flow"
+    }
+  ]
+}

@@ -1,0 +1,510 @@
+{
+    "category": "",
+    "entities": [
+        {
+            "mentionIndices": [
+                0,
+                11
+            ]
+        },
+        {
+            "mentionIndices": [
+                2,
+                13
+            ]
+        },
+        {
+            "mentionIndices": [
+                1
+            ]
+        },
+        {
+            "mentionIndices": [
+                3
+            ]
+        },
+        {
+            "mentionIndices": [
+                4
+            ]
+        },
+        {
+            "mentionIndices": [
+                5
+            ]
+        },
+        {
+            "mentionIndices": [
+                6
+            ]
+        },
+        {
+            "mentionIndices": [
+                7
+            ]
+        },
+        {
+            "mentionIndices": [
+                8
+            ]
+        },
+        {
+            "mentionIndices": [
+                9
+            ]
+        },
+        {
+            "mentionIndices": [
+                10
+            ]
+        },
+        {
+            "mentionIndices": [
+                12
+            ]
+        }
+    ],
+    "id": "",
+    "mentions": [
+        {
+            "tokenDocumentIndices": [
+                0,
+                1
+            ],
+            "type": "Actor"
+        },
+        {
+            "tokenDocumentIndices": [
+                2,
+                3
+            ],
+            "type": "Activity"
+        },
+        {
+            "tokenDocumentIndices": [
+                4,
+                5,
+                6
+            ],
+            "type": "Activity Data"
+        },
+        {
+            "tokenDocumentIndices": [
+                8,
+                9
+            ],
+            "type": "Actor"
+        },
+        {
+            "tokenDocumentIndices": [
+                10
+            ],
+            "type": "Activity"
+        },
+        {
+            "tokenDocumentIndices": [
+                11,
+                12
+            ],
+            "type": "Activity Data"
+        },
+        {
+            "tokenDocumentIndices": [
+                14,
+                15
+            ],
+            "type": "Activity"
+        },
+        {
+            "tokenDocumentIndices": [
+                16,
+                17,
+                18,
+                19,
+                20
+            ],
+            "type": "Activity Data"
+        },
+        {
+            "tokenDocumentIndices": [
+                22
+            ],
+            "type": "XOR Gateway"
+        },
+        {
+            "tokenDocumentIndices": [
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30
+            ],
+            "type": "Condition Specification"
+        },
+        {
+            "tokenDocumentIndices": [
+                36
+            ],
+            "type": "XOR Gateway"
+        },
+        {
+            "tokenDocumentIndices": [
+                37
+            ],
+            "type": "Actor"
+        },
+        {
+            "tokenDocumentIndices": [
+                38
+            ],
+            "type": "Activity"
+        },
+        {
+            "tokenDocumentIndices": [
+                39,
+                40,
+                41,
+                42
+            ],
+            "type": "Activity Data"
+        }
+    ],
+    "name": "",
+    "relations": [
+        {
+            "headMentionIndex": 1,
+            "tailMentionIndex": 0,
+            "type": "actor performer"
+        },
+        {
+            "headMentionIndex": 4,
+            "tailMentionIndex": 0,
+            "type": "actor performer"
+        },
+        {
+            "headMentionIndex": 1,
+            "tailMentionIndex": 2,
+            "type": "uses"
+        },
+        {
+            "headMentionIndex": 1,
+            "tailMentionIndex": 4,
+            "type": "flow"
+        },
+        {
+            "headMentionIndex": 4,
+            "tailMentionIndex": 3,
+            "type": "actor performer"
+        },
+        {
+            "headMentionIndex": 4,
+            "tailMentionIndex": 5,
+            "type": "uses"
+        },
+        {
+            "headMentionIndex": 4,
+            "tailMentionIndex": 6,
+            "type": "flow"
+        },
+        {
+            "headMentionIndex": 6,
+            "tailMentionIndex": 7,
+            "type": "uses"
+        },
+        {
+            "headMentionIndex": 8,
+            "tailMentionIndex": 9,
+            "type": "flow"
+        },
+        {
+            "headMentionIndex": 8,
+            "tailMentionIndex": 10,
+            "type": "same gateway"
+        },
+        {
+            "headMentionIndex": 10,
+            "tailMentionIndex": 12,
+            "type": "flow"
+        },
+        {
+            "headMentionIndex": 12,
+            "tailMentionIndex": 11,
+            "type": "actor performer"
+        },
+        {
+            "headMentionIndex": 12,
+            "tailMentionIndex": 13,
+            "type": "uses"
+        }
+    ],
+    "text": "A customer brings in a defective computer and the CRS checks the defect and hands out a repair cost calculation back . If the customer decides that the costs are acceptable , the process continues , otherwise she takes her computer home unrepaired .",
+    "tokens": [
+        {
+            "indexInDocument": 0,
+            "posTag": "DT",
+            "sentenceIndex": 0,
+            "text": "A"
+        },
+        {
+            "indexInDocument": 1,
+            "posTag": "NN",
+            "sentenceIndex": 0,
+            "text": "customer"
+        },
+        {
+            "indexInDocument": 2,
+            "posTag": "VBZ",
+            "sentenceIndex": 0,
+            "text": "brings"
+        },
+        {
+            "indexInDocument": 3,
+            "posTag": "RP",
+            "sentenceIndex": 0,
+            "text": "in"
+        },
+        {
+            "indexInDocument": 4,
+            "posTag": "DT",
+            "sentenceIndex": 0,
+            "text": "a"
+        },
+        {
+            "indexInDocument": 5,
+            "posTag": "JJ",
+            "sentenceIndex": 0,
+            "text": "defective"
+        },
+        {
+            "indexInDocument": 6,
+            "posTag": "NN",
+            "sentenceIndex": 0,
+            "text": "computer"
+        },
+        {
+            "indexInDocument": 7,
+            "posTag": "CC",
+            "sentenceIndex": 0,
+            "text": "and"
+        },
+        {
+            "indexInDocument": 8,
+            "posTag": "DT",
+            "sentenceIndex": 0,
+            "text": "the"
+        },
+        {
+            "indexInDocument": 9,
+            "posTag": "NN",
+            "sentenceIndex": 0,
+            "text": "CRS"
+        },
+        {
+            "indexInDocument": 10,
+            "posTag": "VBZ",
+            "sentenceIndex": 0,
+            "text": "checks"
+        },
+        {
+            "indexInDocument": 11,
+            "posTag": "DT",
+            "sentenceIndex": 0,
+            "text": "the"
+        },
+        {
+            "indexInDocument": 12,
+            "posTag": "NN",
+            "sentenceIndex": 0,
+            "text": "defect"
+        },
+        {
+            "indexInDocument": 13,
+            "posTag": "CC",
+            "sentenceIndex": 0,
+            "text": "and"
+        },
+        {
+            "indexInDocument": 14,
+            "posTag": "VBZ",
+            "sentenceIndex": 0,
+            "text": "hands"
+        },
+        {
+            "indexInDocument": 15,
+            "posTag": "RP",
+            "sentenceIndex": 0,
+            "text": "out"
+        },
+        {
+            "indexInDocument": 16,
+            "posTag": "DT",
+            "sentenceIndex": 0,
+            "text": "a"
+        },
+        {
+            "indexInDocument": 17,
+            "posTag": "NN",
+            "sentenceIndex": 0,
+            "text": "repair"
+        },
+        {
+            "indexInDocument": 18,
+            "posTag": "NN",
+            "sentenceIndex": 0,
+            "text": "cost"
+        },
+        {
+            "indexInDocument": 19,
+            "posTag": "NN",
+            "sentenceIndex": 0,
+            "text": "calculation"
+        },
+        {
+            "indexInDocument": 20,
+            "posTag": "RB",
+            "sentenceIndex": 0,
+            "text": "back"
+        },
+        {
+            "indexInDocument": 21,
+            "posTag": ".",
+            "sentenceIndex": 0,
+            "text": "."
+        },
+        {
+            "indexInDocument": 22,
+            "posTag": "IN",
+            "sentenceIndex": 1,
+            "text": "If"
+        },
+        {
+            "indexInDocument": 23,
+            "posTag": "DT",
+            "sentenceIndex": 1,
+            "text": "the"
+        },
+        {
+            "indexInDocument": 24,
+            "posTag": "NN",
+            "sentenceIndex": 1,
+            "text": "customer"
+        },
+        {
+            "indexInDocument": 25,
+            "posTag": "VBZ",
+            "sentenceIndex": 1,
+            "text": "decides"
+        },
+        {
+            "indexInDocument": 26,
+            "posTag": "IN",
+            "sentenceIndex": 1,
+            "text": "that"
+        },
+        {
+            "indexInDocument": 27,
+            "posTag": "DT",
+            "sentenceIndex": 1,
+            "text": "the"
+        },
+        {
+            "indexInDocument": 28,
+            "posTag": "NNS",
+            "sentenceIndex": 1,
+            "text": "costs"
+        },
+        {
+            "indexInDocument": 29,
+            "posTag": "VBP",
+            "sentenceIndex": 1,
+            "text": "are"
+        },
+        {
+            "indexInDocument": 30,
+            "posTag": "JJ",
+            "sentenceIndex": 1,
+            "text": "acceptable"
+        },
+        {
+            "indexInDocument": 31,
+            "posTag": ",",
+            "sentenceIndex": 1,
+            "text": ","
+        },
+        {
+            "indexInDocument": 32,
+            "posTag": "DT",
+            "sentenceIndex": 1,
+            "text": "the"
+        },
+        {
+            "indexInDocument": 33,
+            "posTag": "NN",
+            "sentenceIndex": 1,
+            "text": "process"
+        },
+        {
+            "indexInDocument": 34,
+            "posTag": "VBZ",
+            "sentenceIndex": 1,
+            "text": "continues"
+        },
+        {
+            "indexInDocument": 35,
+            "posTag": ",",
+            "sentenceIndex": 1,
+            "text": ","
+        },
+        {
+            "indexInDocument": 36,
+            "posTag": "RB",
+            "sentenceIndex": 1,
+            "text": "otherwise"
+        },
+        {
+            "indexInDocument": 37,
+            "posTag": "PRP",
+            "sentenceIndex": 1,
+            "text": "she"
+        },
+        {
+            "indexInDocument": 38,
+            "posTag": "VBZ",
+            "sentenceIndex": 1,
+            "text": "takes"
+        },
+        {
+            "indexInDocument": 39,
+            "posTag": "PRP$",
+            "sentenceIndex": 1,
+            "text": "her"
+        },
+        {
+            "indexInDocument": 40,
+            "posTag": "NN",
+            "sentenceIndex": 1,
+            "text": "computer"
+        },
+        {
+            "indexInDocument": 41,
+            "posTag": "NN",
+            "sentenceIndex": 1,
+            "text": "home"
+        },
+        {
+            "indexInDocument": 42,
+            "posTag": "JJ",
+            "sentenceIndex": 1,
+            "text": "unrepaired"
+        },
+        {
+            "indexInDocument": 43,
+            "posTag": ".",
+            "sentenceIndex": 1,
+            "text": "."
+        }
+    ]
+}
