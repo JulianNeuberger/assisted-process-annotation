@@ -8,7 +8,7 @@ This repository contains the utilities we used in our paper "Assisted Data Annot
 
 We prepared a video demonstration of how TeaPie can be used.
 
-![Watch the demonstration](Coopis2024Demo.mp4)
+[Coopis2024Demo.mp4](https://drive.google.com/file/d/1RBY6YDN42sue5i1Vfr5UejQ1C70UIqI5/view)
 
 ## Research Prototype Installation
 
