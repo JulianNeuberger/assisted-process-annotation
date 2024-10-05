@@ -2,7 +2,13 @@
 
 ![Raincloud plots for NASA-TLX data from our user study.](data/figures/tlx/combined.png)
 
-This repository contains the utilities we used in our paper "Assisted Data Annotation for Business Process Information Extraction from Textual Documents", which is currently under review at CoopIS 2024.
+This repository contains the utilities we used in our paper "Assisted Data Annotation for Business Process Information Extraction from Textual Documents", which is to be presented at CoopIS 2024.
+
+## TeaPie Tool Video Demo 
+
+We prepared a video demonstration of how TeaPie can be used.
+
+![Watch the demonstration](Coopis2024Demo.mp4)
 
 ## Research Prototype Installation
 
