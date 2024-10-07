@@ -4,6 +4,10 @@
 
 This repository contains the utilities we used in our paper "Assisted Data Annotation for Business Process Information Extraction from Textual Documents", which is to be presented at CoopIS 2024.
 
+## Live Demo
+
+You can access a live demo of TeaPie at [http://132.180.195.1:8012/](http://132.180.195.1:8012/). Please use the user and password provided in our Coopis Demo Paper. We will provide a public instance of TeaPie in the near future!
+
 ## TeaPie Tool Video Demo 
 
 We prepared a video demonstration of how TeaPie can be used.
